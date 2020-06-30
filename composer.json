@@ -1,0 +1,13 @@
+{
+    "name": "tobyselway/test-package",
+    "description": "Composer test package. To be used for testing composer package development and integration.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toby Selway",
+            "email": "tobyselway@redfenix.pt"
+        }
+    ],
+    "require": {}
+}

@@ -9,5 +9,8 @@
             "email": "tobyselway@redfenix.pt"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"TestPackage\\": "src/TestPackage"}
+    }
 }

@@ -1,5 +1,5 @@
 {
-    "name": "tobyselway/test-package",
+    "name": "redfenix/test-package",
     "description": "Composer test package. To be used for testing composer package development and integration.",
     "type": "library",
     "license": "MIT",
